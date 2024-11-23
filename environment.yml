@@ -1,0 +1,9 @@
+name: hackthon_dm
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - numpy
+  - pip
+  - pip:
+    - -r /Users/zaninth/Desktop/hackathon_pod/hackathon_pod_dm/requirements.txt

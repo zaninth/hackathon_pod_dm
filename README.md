@@ -1,19 +1,12 @@
-# Hackathon DM
+# Hackathon Project
 
-Este repositório contém o código e os notebooks para o projeto Hackathon DM.
+## Configuração do Ambiente
 
-## Estrutura do Repositório
+Siga os passos abaixo para configurar o ambiente de desenvolvimento:
 
-- `notebooks/`: Contém os notebooks Jupyter.
-- `scripts/`: Contém os scripts Python para processamento de dados e configuração do Spark.
-- `config/`: Contém arquivos de configuração.
-- `requirements.txt`: Lista de dependências do projeto.
+### 1. Crie o Ambiente Conda
 
-## Como Usar
-...
+Use o arquivo `environment.yml` para criar o ambiente Conda:
 
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/hackathon_pod_dm.git
-   cd hackathon_pod_dm
-....
+```bash
+conda env create -f [environment.yml](http://_vscodecontentref_/1)
