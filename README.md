@@ -10,8 +10,10 @@ Este repositório contém o código e os notebooks para o projeto Hackathon DM.
 - `requirements.txt`: Lista de dependências do projeto.
 
 ## Como Usar
+...
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/hackathon_dm.git
-   cd hackathon_dm
+   git clone https://github.com/seu-usuario/hackathon_pod_dm.git
+   cd hackathon_pod_dm
+....
